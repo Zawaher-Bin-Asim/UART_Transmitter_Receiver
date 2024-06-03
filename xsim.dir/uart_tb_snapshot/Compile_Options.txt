@@ -1,1 +1,0 @@
--debug "all" -top "uart_tb" -snapshot "uart_tb_snapshot" 
