@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/zawaher-bin-asim/UART/src/baud_rate.sv,1715099514,systemVerilog,,/home/zawaher-bin-asim/UART/src/rx_controller.sv,,baud_rate,,,,Vivado,,,,
+/home/zawaher-bin-asim/UART/src/rx_controller.sv,1717244114,systemVerilog,,/home/zawaher-bin-asim/UART/src/rx_datapath.sv,,rx_controller,,,,Vivado,,,,
+/home/zawaher-bin-asim/UART/src/rx_datapath.sv,1717244105,systemVerilog,,/home/zawaher-bin-asim/UART/src/tx_controller.sv,,bit_counter;rx_datapath;sample_counter;sipo,,,,Vivado,,,,
+/home/zawaher-bin-asim/UART/src/tx_controller.sv,1717244081,systemVerilog,,/home/zawaher-bin-asim/UART/src/tx_datapath.sv,,tx_controller,,,,Vivado,,,,
+/home/zawaher-bin-asim/UART/src/tx_datapath.sv,1717244071,systemVerilog,,/home/zawaher-bin-asim/UART/test/uart_tb.sv,,piso;tx_counter;tx_datapath;tx_mux,,,,Vivado,,,,
+/home/zawaher-bin-asim/UART/src/uart.sv,1717245138,systemVerilog,,/home/zawaher-bin-asim/UART/src/baud_rate.sv,,uart,,,,Vivado,,,,
+/home/zawaher-bin-asim/UART/test/uart_tb.sv,1717433568,systemVerilog,,,,uart_tb,,,,Vivado,,,,
