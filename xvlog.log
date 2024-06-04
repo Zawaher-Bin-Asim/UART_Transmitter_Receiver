@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/src/uart.sv" into library work
+INFO: [VRFC 10-311] analyzing module uart
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/src/baud_rate.sv" into library work
+INFO: [VRFC 10-311] analyzing module baud_rate
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/src/rx_controller.sv" into library work
+INFO: [VRFC 10-311] analyzing module rx_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/src/rx_datapath.sv" into library work
+INFO: [VRFC 10-311] analyzing module rx_datapath
+INFO: [VRFC 10-311] analyzing module sipo
+INFO: [VRFC 10-311] analyzing module bit_counter
+INFO: [VRFC 10-311] analyzing module sample_counter
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/src/tx_controller.sv" into library work
+INFO: [VRFC 10-311] analyzing module tx_controller
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/src/tx_datapath.sv" into library work
+INFO: [VRFC 10-311] analyzing module tx_datapath
+INFO: [VRFC 10-311] analyzing module piso
+INFO: [VRFC 10-311] analyzing module tx_counter
+INFO: [VRFC 10-311] analyzing module tx_mux
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/zawaher-bin-asim/UART/test/uart_tb.sv" into library work
+INFO: [VRFC 10-311] analyzing module uart_tb

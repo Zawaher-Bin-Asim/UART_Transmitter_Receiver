@@ -138,4 +138,4 @@ clean :
 	rm -rf .*.timestamp
 	rm -rf .stamp.*
 	rm -rf ./obj_dir
-	rm -rf waveform.vcd
+	rm -rf waveform.vcdS
